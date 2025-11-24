@@ -1,0 +1,262 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* --- BRAND PALETTE (Màu Thương Hiệu) --- */
+  /* Vàng đồng sang trọng, không quá gắt */
+  --color-brass: #B08D55; 
+  
+  /* Nâu gỗ trầm, đậm sâu (Espresso) để làm chữ chính dễ đọc */
+  --color-brown-dark: #2C1810; 
+  
+  /* Xanh rêu đá, trầm lắng hơn, hiện đại hơn (Muted Olive) */
+  --color-sage: #6B705C; 
+  
+  /* Kem sáng (Light Parchment) - Thay đổi lớn nhất để làm nền web thoáng đãng */
+  --color-cream: #b79865; 
+  
+  /* Trắng sứ */
+  --color-white: #FFFFFF;
+
+  /* --- DESIGN TOKENS (Gán vào giao diện) --- */
+  
+  /* Nền chính: Dùng màu kem sáng thay vì vàng đậm cũ */
+  --background: var(--color-cream); 
+  
+  /* Chữ chính: Màu nâu đậm nhất */
+  --foreground: var(--color-brown-dark); 
+  
+  /* Màu chủ đạo (Nút bấm, Icon): Vàng đồng */
+  --primary: var(--color-brass);
+  --primary-foreground: var(--color-white);
+  
+  /* Màu phụ (Thẻ tag, nền phụ): Xanh rêu */
+  --secondary: var(--color-sage);
+  --secondary-foreground: var(--color-white);
+  
+  /* Màu nhấn: Nâu gỗ */
+  --accent: #DDB892; /* Màu gỗ nhạt, dùng cho hover */
+  --accent-foreground: var(--color-brown-dark);
+  
+  /* Màu nền phụ (Muted): Dùng cho footer hoặc các khối trích dẫn */
+  --muted: #E6E2D6;
+  --muted-foreground: #78716C;
+  
+  /* Thẻ card (Sản phẩm): Trắng để nổi bật trên nền kem */
+  --card: var(--color-white);
+  --card-foreground: var(--color-brown-dark);
+  
+  /* Đường viền: Màu be đậm hơn nền một chút */
+  --border: #E0D8C8;
+  
+  /* Input form */
+  --input: #FFFFFF;
+  
+  --ring: var(--color-brass);
+  --radius: 0.5rem; /* Bo góc nhẹ nhàng hơn (8px) thay vì quá tròn */
+}
+
+.dark {
+  /* Chế độ tối: Sang trọng, bí ẩn (Dark Luxury) */
+  --background: #1C1917; /* Đen than chì ấm (Warm Black) */
+  --foreground: #F5F2EA; /* Chữ màu kem sáng */
+  
+  --primary: #C6A87C; /* Vàng đồng sáng hơn để nổi trên nền đen */
+  --primary-foreground: #1C1917;
+  
+  --secondary: #556B2F; /* Xanh rêu gốc */
+  --secondary-foreground: #FFFFFF;
+  
+  --muted: #292524;
+  --muted-foreground: #A8A29E;
+  
+  --card: #292524; /* Card màu xám đậm ấm */
+  --card-foreground: #F5F2EA;
+  
+  --border: #44403C;
+  --input: #292524;
+}
+
+@theme inline {
+  --font-serif: 'Playfair Display', 'Playfair Display Fallback';
+  --font-body: 'Lora', 'Lora Fallback';
+  --font-sans: 'Lora', 'Lora Fallback';
+  
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  
+  --color-cream: var(--color-cream);
+  --color-brass: var(--color-brass);
+  --color-brown-dark: var(--color-brown-dark);
+  --color-sage: var(--color-sage);
+  --color-white: var(--color-white);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-cream text-brown-dark;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Animation utilities */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+/* Added modern animations for hero section */
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes textShimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes floatUp {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft 0.8s ease-out forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight 0.8s ease-out forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.8s ease-out forwards;
+}
+
+.animate-text-shimmer {
+  background: linear-gradient(90deg, var(--color-brass), var(--color-brown-dark), var(--color-brass));
+  background-size: 200% 200%;
+  animation: textShimmer 3s ease-in-out infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.animate-float-up {
+  animation: floatUp 3s ease-in-out infinite;
+}
+
+/* Stagger animation */
+.stagger > * {
+  animation: fadeInUp 0.6s ease-out forwards;
+}
+
+.stagger > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger > *:nth-child(5) { animation-delay: 0.5s; }
+
+/* Tailwind component extensions */
+@layer components {
+  .btn-primary {
+    /* Fixed hover effect to use opacity instead of bg-opacity */
+    @apply px-8 py-3 bg-brass text-white rounded-md font-body text-base transition-all hover:opacity-90;
+  }
+  
+  .btn-outline {
+    @apply px-8 py-3 border border-brass text-brass rounded-md font-body text-base transition-all hover:bg-brass hover:text-white;
+  }
+  
+  .section-container {
+    @apply max-w-6xl mx-auto px-4 md:px-6;
+  }
+  
+  .section-padding {
+    @apply py-16 md:py-24;
+  }
+}

@@ -1,0 +1,275 @@
+Yêu cầu:
+Tạo một website landing page hoàn chỉnh, tối ưu chuyển đổi, thiết kế sang trọng – mộc mạc – premium.
+Tone & style: Văn hoá Xứ Quảng – Di sản – Mộc mạc – Tĩnh lặng – Premium.
+Bố cục đẹp, hiện đại, chuẩn UX/UI, có animation nhẹ, màu theo Brand Guideline phía dưới.
+
+🎯 MỤC TIÊU TRANG WEB
+
+Bán sản phẩm chủ lực: Bộ Quà Tặng Mộc An.
+
+Hỗ trợ kể chuyện thương hiệu (Brand Story).
+
+Tạo trải nghiệm cảm xúc "Tĩnh Lặng Xứ Quảng".
+
+🎨 BRAND GUIDELINE (MÀU SẮC)
+
+Dùng toàn bộ màu sau làm palette chính:
+
+1. Vàng Đồng Cổ (#A08040)
+– Màu logo, điểm nhấn sang trọng.
+
+2. Nâu Đất Sậm (#503020)
+– Màu tiêu đề, chữ MỘC AN.
+– Tone ấm – mộc – tin cậy.
+
+3. Xanh Rêu (#556B2F)
+– Màu tagline, nút phụ, điểm nhấn.
+
+4. Kem Giấy Dó (#F5F5DC)
+– Màu nền toàn trang, cảm giác mộc mạc – tinh khiết.
+
+Typography: Serif cao cấp cho tiêu đề, Sans-serif thanh thoát cho nội dung.
+
+Phong cách: Mộc – Thiền – Premium – Heritage Xứ Quảng.
+
+⛰ BRAND POSITIONING
+
+Dùng đúng định vị sau để xây dựng nội dung:
+
+MỘC AN không chỉ bán trầm hương.
+Đây là thương hiệu phong cách sống, mang trải nghiệm “Tĩnh Lặng Xứ Quảng” vào không gian sống hiện đại của người Việt.
+
+Phân khúc: Cao cấp – Lifestyle – Heritage.
+
+🖥 CẤU TRÚC WEBSITE CẦN TẠO
+1. HERO SECTION
+
+Video nền 5 giây: Làn khói + Nghệ nhân khắc logo.
+
+Tiêu đề lớn: “Tĩnh Lặng Xứ Quảng”
+
+Sub tagline: “Mộc mạc – An yên – Tinh tế trong từng khoảnh khắc”
+
+Nút CTA: "Khám Phá Câu Chuyện"
+
+Màu nền: Kem Giấy Dó.
+
+2. PHẦN GIỚI THIỆU THƯƠNG HIỆU (BRAND STORY)
+
+Dùng nội dung này:
+
+Tên thương hiệu: MỘC AN = Mộc mạc + An yên
+
+Slogan: Tĩnh Lặng Xứ Quảng
+
+Câu chuyện thương hiệu:
+
+"MỘC AN là hành trình tìm về sự an yên từ những điều mộc mạc nhất."
+
+"Chúng tôi không chỉ bán trầm. Chúng tôi mang đến một câu chuyện về thời gian, về sự kiên trì của thiên nhiên tự chữa lành vết thương để tạo ra Trầm."
+
+"Logo MỘC AN với hình ảnh Chùa Cầu được 'dệt' nên từ vân gỗ, là lời cam kết: Mang trọn vẹn di sản và linh hồn Xứ Quảng vào không gian sống của bạn."
+
+Có hình: Logo – Chùa Cầu – Lifestyle gỗ.
+
+3. PAIN POINT SECTION
+
+Tiêu đề:
+"Bạn đang tìm một món quà sang trọng, ý nghĩa và khác biệt?"
+
+Danh sách nỗi đau người dùng:
+
+Quà tặng nhàm chán, thiếu tinh tế.
+
+Không chắc chắn về chất lượng.
+
+Không mang được tính văn hoá – cảm xúc.
+
+Tính cá nhân hoá thấp.
+
+4. GIẢI PHÁP (SOLUTION) – BỘ QUÀ TẶNG MỘC AN
+
+Tiêu đề: “Giải pháp: Bộ Quà Tặng Mộc An – Tĩnh Lặng Như Chính Bạn”
+
+Trình bày dạng 3–4 thẻ:
+
+Sản phẩm gồm:
+
+Nhang trầm tự nhiên 100%.
+
+Vòng trầm thủ công Xứ Quảng.
+
+Bộ phụ kiện đốt trầm.
+
+Thiệp cảm ơn & túi quà premium.
+
+Hộp gỗ khắc logo Chùa Cầu.
+
+Có hình unboxing sang trọng.
+
+5. TRUST – LÝ DO TIN TƯỞNG
+
+Tạo 3 icon + text:
+
+100% Tự nhiên
+
+Thủ công Xứ Quảng
+
+Cam kết chất lượng & nguồn gốc
+
+Có video nghệ nhân Xứ Quảng chế tác.
+
+6. SẢN PHẨM NỔI BẬT (BEST SELLERS)
+
+Carousel sản phẩm:
+
+Nhang Trầm
+
+Vòng Trầm
+
+Bộ Quà Tặng Mộc An
+
+Mỗi sản phẩm có:
+
+Hình
+
+Giá
+
+Nút “Thêm vào giỏ”
+
+7. REVIEWS – ĐÁNH GIÁ 5 SAO
+
+Hiển thị 3–5 review từ khách hàng:
+
+Ví dụ:
+
+“Mùi trầm rất thanh, thư giãn tuyệt vời.” – ⭐⭐⭐⭐⭐
+
+“Quà tặng sang trọng, ai nhận cũng thích.” – ⭐⭐⭐⭐⭐
+
+“Câu chuyện thương hiệu rất hay, tinh tế.” – ⭐⭐⭐⭐⭐
+
+8. ƯU ĐÃI ĐẶC BIỆT
+
+Tiêu đề lớn:
+Ưu Đãi Tháng Này – Dành Riêng Cho Bạn
+
+Nội dung:
+
+Combo giảm 15%
+
+Freeship toàn quốc
+
+Hộp quà khắc tên miễn phí
+
+Thời gian giới hạn 48h
+
+Nút CTA:
+“Đặt Mua Ngay & Nhận Ưu Đãi”
+
+9. DANH MỤC SẢN PHẨM
+
+3 khối vuông có hình lifestyle:
+
+Nhang Trầm
+
+Vòng Trầm
+
+Quà Tặng Premium
+
+10. BLOG / CẨM NANG VỀ TRẦM
+
+Section "Cẩm Nang Về Trầm – Kiến Thức Hữu Ích"
+3 bài mới nhất dạng thẻ:
+
+Cách phân biệt trầm thật – giả
+
+Nghệ thuật đốt trầm thư giãn
+
+Trầm trong văn hoá Xứ Quảng
+
+11. SOCIAL PROOF
+
+Hiển thị Instagram feed:
+
+6 ảnh khách hàng dùng sản phẩm
+
+Style vintage – thiên nhiên – mộc mạc
+
+12. FOOTER
+
+Thông tin đầy đủ:
+
+Về Mộc An
+
+Chính sách đổi trả
+
+Chính sách bảo mật
+
+Liên hệ
+
+Số điện thoại – Zalo – Email
+
+Social icons: FB, IG, TikTok
+
+🎯 TARGET AUDIENCE
+
+Dùng nội dung này để tối ưu tone:
+
+Persona 1: Người Gìn Giữ Di Sản (40–60+)
+
+Muốn trầm thật – uy tín – giá trị.
+
+Touchpoint: Website SEO, Zalo.
+
+Persona 2: Người Kiến Tạo An Yên (25–40)
+
+Yêu sự tinh tế – sống chậm – thiền – decor đẹp.
+
+Touchpoint: IG, Pinterest, Facebook.
+
+🧩 YÊU CẦU KỸ THUẬT CHO V0.DEV
+
+Tạo website 1 page dài theo bố cục trên.
+
+Dùng palette màu trong Brand Guideline.
+
+Dùng font chữ cao cấp, tinh tế.
+
+Có animation fade-in nhẹ nhàng.
+
+Responsive cho mobile.
+
+Tối ưu CTA rõ ràng, xuất hiện lại ở 3 section.
+
+Tập trung storytelling + trải nghiệm cảm xúc. (Trong phần câu chuyện thương hiệu, hãy thêm một yếu tố video tự động phát video sản phẩm. Đảm bảo video được lồng ghép liền mạch vào câu chuyện, nâng cao trải nghiệm kể chuyện và tương thích trên nhiều kích thước thiết bị khác nhau. Video nên có các nút điều khiển tương tác với người dùng và không nên tự động phát kèm âm thanh để tôn trọng trải nghiệm người dùng. Hãy chỉ định vị trí tối ưu trong phần này để duy trì mạch lạc và sự tương tác.)
+
+Header + Hero Section của website theo đúng bố cục hình ảnh tôi gửi kèm:
+
+🎨 PHONG CÁCH & TONE
+- Tone màu nền chính: #F5F5DC (Kem Giấy Dó – Beige/Cream)
+- Màu chữ chính: #503020 (Nâu Đất Sậm)
+- Màu điểm nhấn: #A08040 (Vàng Đồng Cổ)
+- Phong cách: Mộc mạc – Tinh tế – Premium – Xứ Quảng
+- Font tương tự: serif, mềm mại, cổ điển (giống hình)
+
+📌 HEADER
+- Logo bên trái: “MỘC AN” và tagline nhỏ phía dưới “Tĩnh Lặng Xứ Quảng”
+- Thanh menu căn giữa: “Câu Chuyện – Sản Phẩm – Cẩm Nang – Liên Hệ”
+- Icon giỏ hàng ở góc phải (tối giản)
+- Header mỏng, tinh tế, có đường line mảnh phía dưới (như hình)
+
+📌 HERO SECTION (Phần đầu trang)
+- Ảnh sản phẩm nằm giữa phía trên, bo góc nhẹ (giống đúng hình tôi gửi)
+- Bên dưới là tiêu đề lớn:
+  “TĨNH LẶNG XỨ QUẢNG”
+  — font serif đẹp, đậm, màu #503020
+- Subtitle:
+  “Mộc mạc – An yên – Tinh tế trong từng khoảnh khắc”
+- Hai nút CTA dưới subtitle:
+  - Khám Phá Câu Chuyện (outline button)
+  - Đặt Mua Ngay (solid border mềm – giống hình)
+- Toàn bộ layout căn giữa, thoáng, tinh tế, tone nền màu kem nhạt.
+
+📌 HÌNH ĐÍNH KÈM
+Sử dụng hình tôi đính kèm làm ảnh chính của Hero Section (bo góc giống mẫu)
